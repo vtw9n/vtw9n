@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vtw9n
+- 👋 Hi, I’m  @vtw9n     
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-  - 📫 How to reach me ...@vtw9n on most socals
+- 🌱 I’m currently learning stuff
+- 💞️ I’m looking to collaborate on anything related to mechanical engineereing 
+- 📫 How to reach me ...@vtw9n on most socials
   - 
 
 <!---
